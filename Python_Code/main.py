@@ -18,7 +18,7 @@ if __name__ == "__main__":
     # Create turtle object
     # jacky = t.Turtle(visible=True)
 
-    my.draw_branch(x=0, y=-400, angle=90, depth=0, width=10, length=200)
+    my.draw_branch(x=0, y=-400, angle=90, depth=0, width=10, length=150, color=(.2, .8, .9))
 
     # End turtle actions
     t.done()
